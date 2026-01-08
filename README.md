@@ -7,7 +7,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="version" />
-  <img src="https://img.shields.io/github/last-commit/username/weather-app" alt="last commit" />
+  
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome" />
 </div>
 
@@ -30,7 +30,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/fitto-0/Syntecxhub_weather_app.git
    cd weather-app
    ```
 
@@ -70,14 +70,7 @@
 
 ## 🤝 Contributing
 
-We welcome contributions! Here's how you can help:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
+We welcome contributions!
 
 ## 🙏 Acknowledgments
 
