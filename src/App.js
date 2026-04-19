@@ -1,8 +1,8 @@
 // App.js - Updated with weekly forecast and animations
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import { WiDaySunny, WiRain, WiCloudy, WiSnow, WiThunderstorm, WiFog, WiHumidity, WiStrongWind, WiBarometer } from 'react-icons/wi';
-import { FiSearch, FiMapPin, FiDroplet, FiThermometer, FiWind } from 'react-icons/fi';
+import { WiDaySunny, WiRain, WiCloudy, WiSnow, WiThunderstorm, WiFog, WiHumidity, WiBarometer } from 'react-icons/wi';
+import { FiSearch, FiMapPin, FiThermometer, FiWind } from 'react-icons/fi';
 import { motion, AnimatePresence } from 'framer-motion';
 import './App.css';
 
